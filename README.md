@@ -1,2 +1,3 @@
-# streamlit-machine-learning-pet
+# my wonderful pet
+
 streamlit web app with python. Predict the type of mascot.
